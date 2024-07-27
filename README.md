@@ -1,6 +1,8 @@
 # Art-generation-with-Neural-Style-Transfer
 
 #Overview
+
+
 This project leverages the power of neural networks to generate stunning art by blending the content of one image with the style of another. Using advanced deep learning techniques, this implementation captures the artistic essence of a style image and applies it to a content image, creating a unique piece of art.
 
 #Features
