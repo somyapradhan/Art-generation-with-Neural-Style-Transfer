@@ -14,12 +14,14 @@ The VGG19 model is a deep convolutional neural network that is widely used for i
 ![image](https://github.com/user-attachments/assets/a71b4039-69a3-45fa-a412-80af83cd62c8)
 
 # Results
-Style Image
+# Style Image
 ![art2](https://github.com/user-attachments/assets/8ab86c10-5a4b-4273-8f09-2af75d0c27b7)
 
-Content Image
+# Content Image
 ![louvre](https://github.com/user-attachments/assets/48892414-660f-40bc-87df-b7ed1b9862bf)
 
-Generated Image
+# Generated Image
+![image](https://github.com/user-attachments/assets/97a88907-7c61-45f6-92ba-8d6ccd03b377)
+
 
 
